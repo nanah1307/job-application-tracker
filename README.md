@@ -39,7 +39,6 @@ Everything runs inside your own Google account. No data is sent to any outside s
 3. Open Job Tracker Menu on your own copy
 4. Run all Scrapers
 <img width="967" height="664" alt="image" src="https://github.com/user-attachments/assets/de2b1ba8-c020-402a-82d9-f059b371f678" />
-![Uploading image.png…]()
 
 ## Usage
 
@@ -88,4 +87,4 @@ Google Apps Script, JavaScript (ES6), Gmail service, Google Sheets (formulas and
 
 ## License
 
-Add your preferred license here (for example MIT).
+This project is licensed under the [MIT License](LICENSE).
